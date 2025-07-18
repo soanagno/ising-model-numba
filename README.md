@@ -3,5 +3,5 @@ Accelerating the Ising model with Numba
 
 
 <p align="center">
-  <img src="https://github.com/soanagno/ising-model-numba/blob/master/snapshots.png">
+  <img src="https://github.com/soanagno/ising-model-numba/snapshots.png">
 </p>
